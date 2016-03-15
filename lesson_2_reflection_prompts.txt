@@ -7,7 +7,8 @@ What value do you think it offers?
 	be traced. However working directory is the one where all of our git commands will executed.
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+	We can add al the files which ned=ed to be modified and can create a single commit for them altogether by keeping them in 
+	the staging area before Repository.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
