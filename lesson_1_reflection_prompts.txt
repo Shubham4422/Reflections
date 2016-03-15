@@ -31,8 +31,8 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    It makes the hectic tasks like Error Handling much easier to manage.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    I would like to use it keep track of my Android App Project development.
