@@ -11,7 +11,8 @@ change?
 	the staging area before Repository.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
+	When we are not sure that the changes we are about to make worth, branches can be made to the main file so that if we need
+	to update the main version we might not need to worry about the changes we made for the branched version.
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
